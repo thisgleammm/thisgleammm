@@ -19,8 +19,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
